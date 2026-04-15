@@ -13,3 +13,7 @@ Right now, I’m focused on building strong foundations in:
 - Security Documentation & Policy Development  
 
 I’m actively improving my skills and looking for opportunities to grow in cybersecurity, especially in GRC and security analysis roles.
+
+## 📫 Connect with Me
+
+ LinkedIn: https://linkedin.com/in/nareshx4235
