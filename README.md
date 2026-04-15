@@ -1,6 +1,6 @@
 ## 👨‍💻 About Me
 
-Hi, I'm Naresh Adhikari — a cybersecurity enthusiast focused on Governance, Risk, and Compliance (GRC).
+Hi, I'm Naresh Adhikari - a cybersecurity enthusiast focused on Governance, Risk, and Compliance (GRC).
 
 I have hands-on experience from a GRC traineeship where I worked on risk assessments, internal audits, vendor security reviews (TPRM), and security framework mapping using ISO 27001 and NIST 800-53.
 
